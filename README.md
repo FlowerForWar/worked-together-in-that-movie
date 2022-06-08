@@ -1,5 +1,5 @@
 # Worked together in that movie
-[Github](https://github.com/FlowerForWar/worked-together-in-that-movie), [Greasy Fork Discussion](https://greasyfork.org), [Reddit](https://www.reddit.com/r/userscripts/)
+[Github](https://github.com/FlowerForWar/worked-together-in-that-movie), [Greasy Fork Discussion](https://greasyfork.org/en/discussions/development/137330-user-script-idea-worked-together-in-that-movie), [Reddit](https://www.reddit.com/r/userscripts/comments/v7cjsi/user_script_idea_worked_together_in_that_movie/)
 
 An idea for a user script that works on IMDb.   
 Click+Ctrl an actor name will bring a dialog that would offer searching for other actors, and finally tell you what movies the two actors worked together in, if any.
