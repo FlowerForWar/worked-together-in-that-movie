@@ -1,4 +1,5 @@
-# Worked together in that movie
+# Someone already created a concept [here](https://www.reddit.com/r/userscripts/comments/v7cjsi/user_script_idea_worked_together_in_that_movie/iblbrlz/?utm_source=reddit&utm_medium=web2x&context=3).
+
 [Github](https://github.com/FlowerForWar/worked-together-in-that-movie), [Greasy Fork Discussion](https://greasyfork.org/en/discussions/development/137330-user-script-idea-worked-together-in-that-movie), [Reddit](https://www.reddit.com/r/userscripts/comments/v7cjsi/user_script_idea_worked_together_in_that_movie/)
 
 An idea for a user script that works on IMDb.   
