@@ -11,5 +11,8 @@ Click+Ctrl an actor name will bring a dialog that would offer searching for othe
 
 I'm likley to build it someday, but will take some time, as I have other user scripts to maintain.
 
+## Related user scripts
+* [Was about that old in that movie](https://greasyfork.org/en/scripts/445300-was-about-that-old-in-that-movie)
+
 ## License
 [MIT](https://github.com/FlowerForWar/was-about-that-old-in-that-movie/blob/main/LICENSE)
